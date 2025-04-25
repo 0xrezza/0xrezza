@@ -12,8 +12,9 @@
 - 🌍 I'm a Full-Stack Developer building modern web apps and dApps
 - ⚡ Focused on **React**, **Next.js**, **Tailwind**, and **Web3**
 - 💡 I’m passionate about **DX**, **performance**, and **clean architecture**
-- 🧠 Currently learning more about **Solidity** 
+- 🧠 I’m learning more about smart contract auditing, performance optimization, and bleeding-edge web tooling.
 - 🛠️ Always exploring bleeding-edge tools like **Bun**, **RSBuild**, and **TurboPack**
+- 🎯 My goal is to bridge the gap between frontend experiences and powerful backend systems, and make decentralized apps more accessible.
 
 ---
 
