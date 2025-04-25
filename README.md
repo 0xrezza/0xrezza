@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Reza Ghoreyshi(0xre2a)</h1>
-<h3 align="center">Full-Stack Developer | Web3 Engineer | Performance-First Coder ⚡</h3>
+<h3 align="center">Full-Stack Developer | Web3 Developer | Performance-First Coder ⚡</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=450&lines=Frontend+%F0%9F%92%BB+%7C+Backend+%F0%9F%92%BC+%7C+Web3+%F0%9F%94%A5;React+Next.js+Tailwind+Lover;Smart+Contract+%7C+Node.js+%7C+DX+Advocate" alt="Typing SVG" />
