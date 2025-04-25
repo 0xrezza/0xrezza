@@ -69,3 +69,8 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
 </p>
+
+
+---
+
+⚡ *Always building, always learning.*
