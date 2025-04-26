@@ -13,7 +13,7 @@
 - ⚡ Focused on **React**, **Next.js**, **Tailwind**, and **Web3**
 - 💡 I’m passionate about **DX**, **performance**, and **clean architecture**
 - 🧠 I’m learning more about smart contract auditing, performance optimization, and bleeding-edge web tooling.
-- 🛠️ Always exploring bleeding-edge tools like **Bun**, **RSBuild**, and **TurboPack**
+- 🛠️ Always exploring cutting-edge tools like **Bun**, **RSBuild**, and **TurboPack**
 - 🎯 My goal is to bridge the gap between frontend experiences and powerful backend systems, and make decentralized apps more accessible.
 
 ---
