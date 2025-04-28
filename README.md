@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Web3 Developer | Performance-First Coder ⚡</h3>
 
 <p align="center">
-  Just a programer 
+  Just a programmer 
 </p>
 
 ---
