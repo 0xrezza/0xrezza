@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Reza Ghoreyshi(0xre2a)</h1>
+<h1 align="center">Hey there! 👋 I'm Reza Ghoreyshi(0xrezza)</h1>
 <h3 align="center">Full-Stack Developer | Web3 Developer | Performance-First Coder ⚡</h3>
 
 <p align="center">
